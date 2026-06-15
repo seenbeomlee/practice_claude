@@ -74,6 +74,6 @@
 
 ## 참고 자료
 
-- [Anthropic 공식 강좌 목록](https://wikidocs.net/340857)
+- [Anthropic 공식 강좌 목록](https://anthropic.skilljar.com/)
 - [Anthropic 강좌 GitHub](https://github.com/anthropics/courses)
 - [Claude Code 공식 문서](https://docs.anthropic.com/claude-code)
